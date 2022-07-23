@@ -14,7 +14,6 @@ export default function Home(): JSX.Element {
     data,
     isLoading,
     isError,
-    isFetching,
     isFetchingNextPage,
     fetchNextPage,
     hasNextPage,
